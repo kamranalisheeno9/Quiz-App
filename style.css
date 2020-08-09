@@ -128,3 +128,27 @@ h3{
     background-color: black;
     color: white;
 }
+
+@media only screen and (max-width:526px){
+    #questionValue{
+        font-size: 18px;
+    }
+    .options{
+        font-size: 15px;
+        font-weight: 400;
+        padding-left: 20px;
+    }
+    .nextBtn{
+        font-size: 15px;
+        
+    }
+    .questionVaries{
+        margin-top: 15%;
+        border-radius: 0px;
+        
+    }
+    body{
+        background:url(https://cdn.shopify.com/s/files/1/0241/9661/products/colorbookssweb_442d2ac5-e855-4a45-9cec-0e9f40c07870_1024x1024.jpg?v=1542786290);
+        background-repeat: no-repeat;
+    }
+}  
