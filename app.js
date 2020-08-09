@@ -32,10 +32,19 @@ function nextQuestion()
 {
 
     counter++
-    correctValue()
+
+    var active =document.getElementsByClassName("active")
+    for(var i=0;i<active.length;i++){
+        if(active[i] != -1){
+            correctValue()
+
+        }
+        
+    }
     question()
     removeActive()
    
+     
   
 }
 

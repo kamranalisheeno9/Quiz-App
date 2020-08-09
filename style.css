@@ -115,6 +115,11 @@ h3{
     color: bisque;
 }
 .startBtn{
+    font-size: 22px !important;
+    width: 250px !important;
+    height: 50px !important;
+}
+.startBtn{
     float: right;
     border: none;
     background-color: deepskyblue;
@@ -133,6 +138,11 @@ h3{
     #questionValue{
         font-size: 18px;
     }
+    .startBtn{
+        font-size: 18px !important;
+        width: 180px !important;
+        height: 30px !important;
+    }
     .options{
         font-size: 15px;
         font-weight: 400;
@@ -148,7 +158,8 @@ h3{
         
     }
     body{
-        background:url(https://cdn.shopify.com/s/files/1/0241/9661/products/colorbookssweb_442d2ac5-e855-4a45-9cec-0e9f40c07870_1024x1024.jpg?v=1542786290);
+        background:url(https://ae01.alicdn.com/kf/HTB1UDACcL6TBKNjSZJiq6zKVFXag/Laeacco-Old-Bookshelf-Books-Wooden-Floor-Study-Baby-Portrait-Photography-Backgrounds-Photographic-Backdrops-For-Photo-Studio.jpg);
         background-repeat: no-repeat;
     }
+    
 }  
